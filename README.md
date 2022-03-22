@@ -1,0 +1,2 @@
+# redirect
+.com->org redirect
